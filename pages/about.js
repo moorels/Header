@@ -7,7 +7,7 @@ function about() {
         <div className={styles.container}>
         <Navbar/>
         <div  className={styles.main}>
-        <div class="grid grid-flow-col grid-cols-3 grid-rows-3 gap-4">
+        <div className="grid grid-flow-col grid-cols-3 grid-rows-3 gap-4">
   <div>1345</div>
   <div>1345</div>
   <div>1345</div>
