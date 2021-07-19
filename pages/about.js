@@ -1,7 +1,7 @@
 import React from 'react'
 import Header from './Header'
 import styles from '../styles/Home.module.css'
-import { Navbar } from './Navbar'
+import { Navbar } from '../Components/Navbar'
 function about() {
     return (
         <div className={styles.container}>
